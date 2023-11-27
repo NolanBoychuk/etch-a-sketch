@@ -1,0 +1,38 @@
+body {
+    background-color:teal;
+}
+#containerDiv {
+    height:500px;
+    width:500px;
+    display:flex;
+    flex-direction:column;
+    flex-grow:1;
+    margin:auto;
+    border:solid;
+    border-width:10px;
+    border-radius:5px;
+}
+.rows {
+    display:flex;
+    flex-grow:1;
+}
+.box {
+    display:flex;
+    flex-grow:1;
+    background-color:white;
+}
+h1 {
+    display:flex;
+    justify-content:center;
+}
+.background {
+    background-color:black;
+}
+#sizeButton, #clearButton {
+    margin:auto;
+    display:flex;
+    margin-top:21.4px;
+    border-radius:10px;
+    background-color:white;
+    font-size:20px;
+}

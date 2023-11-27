@@ -1,1 +1,1 @@
-# etch-a-sketch
+Etch a sketch website where you can set the size of the grid to whatever you want(within reason) and can clear whenever to load a fresh grid.
